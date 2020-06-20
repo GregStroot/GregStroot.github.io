@@ -279,3 +279,22 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  # _programming
+  - scope:
+      path: ""
+      type: programming 
+    values:
+      layout: single
+      author_profile: false 
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+
+collections:
+        programming:
+                output: true
+                permalink: /_collections/:collection/:path
