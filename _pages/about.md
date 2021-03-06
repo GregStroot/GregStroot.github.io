@@ -18,7 +18,7 @@ toc: true
 
 # Background and Purpose
 
-My name is Greg Stroot, as of 2019 I am a 1st year PhD student in Mechanical Engineering at California Institute of Technology. I am working with Professor Bevereley Mckeon in the [Mckeon Research Group](https://www.mckeon.caltech.edu/). On an academic level, I study turbulent flows and specifically studying wall-bounded turbulence through the lense of the Resolvent operator.
+My name is Greg Stroot, as of 2021 I am a 2nd year PhD student in Mechanical Engineering at California Institute of Technology. I am working with Professor Bevereley Mckeon in the [Mckeon Research Group](https://www.mckeon.caltech.edu/). On an academic level, I study turbulent flows and specifically studying wall-bounded turbulence through the lense of the Resolvent operator. My further interests include the intersection of machine learning, turbulence modeling, and data-driven approaches.
 
 The intention of this website is to give a glimpse within my mind and to provide a place for myself to index my knowledge for all to see. The primary goal is to share what I'm reading academically, but I intend to write about metaphysics, hermenutics, and ontology. Research may come first and foremost when speaking on a "*practical*" level, but surely philosophy and the practice of such reigns supreme in any other discussion of priorities. While it is interesting to speak of philosophy and any other topic, it is best to temper oneself with the following quote:
 
@@ -29,5 +29,13 @@ The intention of this website is to give a glimpse within my mind and to provide
 ## Pondering Infinites
 
 The name of this website is inspired by Cantor. 
+
+## Additional interests
+
+On a more practical level, I am very strong advocate for Free and Open Source Software (FOSS). I believe that these tools allow us freedom. I take great influence from Richard M Stallman on these topics. On a political level, I am not very active, but have taken great influence from Noam Chomsky.
+
+## Disclaimer
+
+The views expressed on this site are solely my own and do not express the views of my employer or any person that I am affiliated with.
 
 

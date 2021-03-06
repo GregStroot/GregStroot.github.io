@@ -32,6 +32,20 @@ For this, I will reference my own practice, various Suttas, and *The Sound of Si
 This is non-intuitive and something that certainly has inhibited my return to practice. In fact, it inhibited me for months, while I was in others homes. When I would try to practice with other distractors or try to practice in general after a break, I would immediately try to follow my breath, as I had always done. Now this may be good, when one has practiced a lot, but when one hasn't the breathe is much too fine of a motion for the mind to keep track of. It allows one to be quickly lost. I found that I would keep following the breath for one minute and then realize hours later my mind was off proliferating again. So how do we overcome this? How may we get back to the level of concentraction we were once at? Ajahn Sumedho puts this very well:
 
 
+# Not reading the Dhamma
+
+When ones mind is not firmly rooted in the Dhamma, through means of practice, it is exceptionally easy to fall back into old loops -- old cycles of *paticcasamutapada*. Indeed, past kamma directs the mind and without constant reminders, it will simply go back to out habits and patterns. This is why we must entrench ourselves in the Dhamma, either through reading, practice, listening, or all three. Another practice that I have taken up again is chanting. Chanting works in a three-fold approach
+
+1. It works to calm the mind
+2. It strengthens mindfulness
+- When one repeats verses over and over, they begin to repeat at opportune times
+3. It serves as a reflection on the Dhamma
+
+Since starting my practice again, this has been my main practice. Every day, I will chant, listen to a short *dhamma* talk, and sit for a short amount of time. I find that this works to strengthen my mindfulness the most. When I feel,
+
+
+
+
 
 [^1]: [The Sound of Silence by Ajahn Sumeho](https://www.goodreads.com/en/book/show/732835.The_Sound_of_Silence)
 [2]: [The Skill of Restraint by Thanissaro Bhikku](https://www.dhammatalks.org/books/GatherRound/Section0071.html)

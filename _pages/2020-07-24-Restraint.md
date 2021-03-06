@@ -1,5 +1,6 @@
 ---
 layout: single 
+permalink: /dhamma/restraint
 title: "Restraint"
 ---
 # Note 
@@ -60,6 +61,6 @@ Thanissaro ends with a wonderful exposition of the place of restraint in the pra
 
 
 
-[1]: [The Four Nutriments of Life by Nyanaponika Thera](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel105.html#fn-1)
-[2]: [The Skill of Restraint by Thanissaro Bhikku](https://www.dhammatalks.org/books/GatherRound/Section0071.html)
+[^1]: [The Four Nutriments of Life by Nyanaponika Thera](https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel105.html#fn-1)
+[^2]: [The Skill of Restraint by Thanissaro Bhikku](https://www.dhammatalks.org/books/GatherRound/Section0071.html)
 
